@@ -5,4 +5,4 @@ Note:
 2、main_brain.py: run this file for training and testing.
 3、model.py: the network.
 
-The complete code will be public soon after the paper is accepted.
+The complete code will be public soon.
